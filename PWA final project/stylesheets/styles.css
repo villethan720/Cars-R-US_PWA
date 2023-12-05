@@ -1,0 +1,29 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items:center;
+    justify-items: center;
+    height: 100wh;
+    background-color: cornsilk;
+
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    padding: 0;
+    margin: 5px;
+    cursor: pointer;
+}
+
+output {
+    margin-top: 20px
+}
+
+input{
+    margin-top: 20px
+}

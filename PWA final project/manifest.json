@@ -1,0 +1,16 @@
+{
+    "name": "MainPage",
+    "short_name": "CRUS",
+    "description": "A PWA for old html project",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icon": [
+        {
+            "src": "./Images/icon.png",
+            "size": "150x150",
+            "type": "image/png"
+        }
+    ]
+}
